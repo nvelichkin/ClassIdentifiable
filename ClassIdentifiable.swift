@@ -2,7 +2,7 @@
 //  ClassIdentifiable.swift
 //
 //  Created by Nikita Velichkin on 25/01/2020.
-//  Copyright © 2020 Velichkin Nikit. All rights reserved.
+//  Copyright © 2020 Velichkin Nikita. All rights reserved.
 //
 
 protocol ClassIdentifiable {
